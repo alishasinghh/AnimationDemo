@@ -37,7 +37,7 @@ public class Mario extends MovingImage {
 		vY += 0.5;
 		super.y += vY;
 		
-		System.out.println("SAY SOMETHING ELSE");
+		System.out.println("SAY SOMETHING TOTALLY DIFFERENT");
 	}
 
 
